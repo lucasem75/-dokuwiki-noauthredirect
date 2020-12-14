@@ -1,0 +1,7 @@
+base   noauthredirect
+author Emmanuel Lucas
+email  lucasem75@gmail.com
+date   2020-12-14
+name   Not Authenticated Redirect plugin
+desc   If a user is not authenticated, redirect to an url defined in configuration.
+url    https://github.com/tillbiskup/dokuwiki-showinitpage 
