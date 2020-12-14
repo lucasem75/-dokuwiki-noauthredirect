@@ -1,9 +1,8 @@
 <?php
 /**
- * English Language for Show Initpage Plugin: Show a Defined Init-Page on "Access Denied"
+ * English Language for Not Authenticated Redirect Plugin: Redirect to an url when user is not authenticated
  * 
- * @author Christian Eder 
+ * @author Emmanuel Lucas 
  */
 
-$lang['initpageurl'] = 'Url to redirect on access denied';
-$lang['initpagestartonly'] = 'Redirect only for startpage';
+$lang['noauthredirect'] = 'Url to redirect when user is not authenticated';
