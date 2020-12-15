@@ -5,4 +5,4 @@
  * @author Emmanuel Lucas
  */
 
-$meta['noauthredirect'] = array('string');
+$meta['url'] = array('string');

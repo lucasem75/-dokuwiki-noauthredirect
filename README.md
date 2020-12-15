@@ -21,5 +21,5 @@ will not work!
 
 **Configuration**
 
-Set in local.php the value : $conf['noauthredirect'] to the url to 
-redirect to.
+Set in local.php the value : $conf['plugin']['noauthredirect']['url'] 
+to the url to redirect to.

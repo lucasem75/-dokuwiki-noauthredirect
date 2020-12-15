@@ -5,4 +5,4 @@
  * @author Emmanuel Lucas 
  */
 
-$meta['noauthredirect'] = 'https://www.google.fr';
+$conf['url'] = 'https://www.google.fr';

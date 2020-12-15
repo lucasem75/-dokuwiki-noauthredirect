@@ -36,7 +36,7 @@ class action_plugin_noauthredirect extends DokuWiki_Action_Plugin {
     // Redirect when user is not authentified
     if (auth_quickaclcheck($ID) == AUTH_NONE)
     {
-		$rurl=$conf['noauthredirect'];
+		$rurl=$this->getConf('url');
 		header('Location: ' . $rurl);
     }
   }
